@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PushNotificationService</string>
+    <string name="default_web_client_id" translatable="false">988875451873-md5tcinebm9tbung99qjc16js30hn2du.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://testpwa-2d83c.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">988875451873</string>
+    <string name="google_api_key" translatable="false">AIzaSyBAcXpjfAQS7noZMNiQ9g9l4ZnUNgTE7jA</string>
+    <string name="google_app_id" translatable="false">1:988875451873:android:7d50213ea66ef8039136a0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBAcXpjfAQS7noZMNiQ9g9l4ZnUNgTE7jA</string>
+    <string name="google_storage_bucket" translatable="false">testpwa-2d83c.appspot.com</string>
+    <string name="project_id" translatable="false">testpwa-2d83c</string>
+</resources>
